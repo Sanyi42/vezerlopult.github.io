@@ -1,0 +1,71 @@
+body{
+    background-color: darkslategray;
+}
+
+h1{
+    text-align: center;
+    color:  black;
+}
+
+.wrapper {
+    display: flex;
+    height: 100%;
+    position: absolute;
+    left: -350px;
+}
+
+.wrapper .content {
+    background: url(../LEPKE/hatter.jpg);
+    width: 640px;
+    height: 500px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+    left: 900px;
+}
+
+.szoveg1{
+    position: relative;
+    left: 230px;
+    top: -180px;
+    font-size: x-large;
+}
+
+.szoveg2{
+    position: relative;
+    left: 10px;
+    top: -160px;
+    font-size: x-large;
+}
+
+.kep2{
+    position: relative;
+    left: 410px;
+    top: -260px;
+    border: solid black 1px;
+}
+
+.kep1{
+    border: solid black 1px;
+}
+
+a{
+    position: absolute;
+    font-size: larger;
+    left: 30px;
+    top: 470px;
+}
+
+.szoveg3{
+    position: relative;
+    left: 250px;
+    top: -150px;
+    font-size: larger;
+}
+
+.szoveg4{
+    position: relative;
+    left: 10px;
+    top: -170px;
+    font-size: larger;
+}

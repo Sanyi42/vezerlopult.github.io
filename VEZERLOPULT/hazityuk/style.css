@@ -1,0 +1,79 @@
+p, li, h1, h2 {
+    color: #003399;
+    padding-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tyuk1 {
+    background: url(../HAZITYUK2/kepek/hatter.jpg);
+}
+
+.tyuk2 {
+    background: url(../HAZITYUK2/kepek/hatter.jpg);
+}
+
+.wrapper {
+    display: flex;
+    height: 100%;
+    position: absolute;
+    left: -350px;
+}
+
+.wrapper .content {
+    background: #EEEECC;
+    width: 700px;
+    height: 700px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+    left: 900px;
+}
+
+.wrapper2 {
+    display: flex;
+    height: 100%;
+    position: absolute;
+    left: -350px;
+}
+
+.wrapper2 .content2 {
+    background: #EEEECC;
+    width: 800px;
+    height: 800px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+    left: 900px;
+}
+
+
+
+.kakas {
+    left: 600px;
+    position: absolute;
+}
+
+.gomb {
+    left: 600px;
+    position: absolute;
+}
+
+.nagy{
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    border: 1px solid black;
+    
+}
+
+
+.zene {
+    top: 650px;
+    position: absolute
+}
+
+
+
